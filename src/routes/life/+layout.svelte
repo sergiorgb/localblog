@@ -11,6 +11,7 @@
 					<a href={post.path}>
 						{post.meta.title}
 					</a>
+					<hr />
 				</li>
 			{/each}
 		</nav>
