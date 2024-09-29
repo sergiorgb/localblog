@@ -1,0 +1,36 @@
+@font-face {
+	font-family: jtbrainsmono-thin;
+	src: url(/css/fonts/jtbrains-mono-thin.woff2);
+}
+@font-face {
+	font-family: jtbrainsmono-regular;
+	src: url(/css/fonts/jtbrains-mono-regular.woff2);
+}
+@font-face {
+	font-family: srcodepro-it;
+	src: url(/css/fonts/srcodepro-it.woff2);
+}
+@font-face {
+	font-family: srcodepro;
+	src: url(/css/fonts/srcodepro.woff2);
+}
+@font-face {
+	font-family: proximanova;
+	src: url(/css/fonts/proximanova.otf);
+}
+body {
+	padding: 2rem;
+}
+* {
+	background-color: #000000;
+}
+p {
+	font-family: srcodepro;
+}
+footer {
+	font-family: jtbrainsmono-regular;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
